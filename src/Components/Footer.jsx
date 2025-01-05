@@ -22,34 +22,12 @@ const Footer = () => {
             <p className="text-xl font-semibold text-green-400">GET IN TOUCH</p>
             <ul className="space-y-2">
               
-              <li className="hover:text-green-400">
-                <a
-                  href="https://wa.me/2347049924540"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  +234 704 992 4540
-                </a>
-              </li>
+              
               <li className="hover:text-green-400 font-bold">
-                <a
-                  href="https://t.me/+2347049924540"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2"
-                >
-                  Telegram
-                </a>
+                Cell
+                <p>+234 704 992 4540</p>
               </li>
-              <li className="hover:text-green-400">
-                <a
-                  href="https://t.me/+2347049924540"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  +234 704 992 4540
-                </a>
-              </li>
+              
               <li className="hover:text-green-400 cursor-pointer font-bold">
                 Email
               </li>
