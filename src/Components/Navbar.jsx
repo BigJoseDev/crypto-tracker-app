@@ -20,7 +20,7 @@ const Navbar = ({ isLogin, setIsLogin }) => {
             
             navigate("/");
           }}
-          className="w-54 ml-5 font-thin text-xl">
+          className="w-54 ml-5  font-[Aboreto]text-xl">
         CRYPTO TRACKER
           </h1>
         
